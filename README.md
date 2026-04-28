@@ -56,4 +56,4 @@ El código está dividido de forma modular siguiendo las mejores prácticas de C
         ```
 
 ---
-*Proyecto académico / personal para la demostración de estructuras de datos y POO en C++.*
+*Tarea Árboles / implementación personal para la demostración de estructuras de datos y árboles BST en C++.*
